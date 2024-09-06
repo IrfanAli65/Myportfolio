@@ -1,2 +1,2 @@
 # Myportfolio
-Author - Irfan Ali
+Author - Irfan (Web Developer)
